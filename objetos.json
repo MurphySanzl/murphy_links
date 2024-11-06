@@ -1,0 +1,281 @@
+[
+    {
+        "nome": "netNucleo",
+        "caminho": "http://netnucleo.com.br/senai/",
+        "imagem": "img/imagens_senai/img01_netnucleo.jpg"
+    },
+    {
+        "nome": "email SENAI",
+        "caminho": "https://outlook.office.com/mail/inbox/id/AAQkAGRiMDE4Mjc5LTUxZmEtNGJhYS04NmJkLTIxOTg4OTY2ODliNwAQAOibcKnWiRhBk%2BNhfZqRpBg%3D",
+        "imagem": "img/imagens_senai/img02_emailsenai.jpg"
+    },
+    {
+        "nome": "intranet",
+        "caminho": "https://nossaintranet.fiemg.com.br/",
+        "imagem": "img/imagens_senai/img03_intranet.jpg"
+    },
+    {
+        "nome": "lugar da gente",
+        "caminho": "https://pessoas.fiemg.com.br/lugardagente",
+        "imagem": "img/imagens_senai/img04_lugardagente.jpg"
+    },
+    {
+        "nome": "portal Docente",
+        "caminho": "https://portaldocente.fiemg.com.br/Corpore.Net/Login.aspx",
+        "imagem": "img/imagens_senai/img05_portaldocente.jpg"
+    },        
+    {
+        "nome": "meu Senai",
+        "caminho": "https://iam.senai.br/authenticationendpoint/login.do?RelayState=%2Fdn%2F&commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=e6f3e3ab-292b-4fc0-b116-e51a7822e2e0&relyingParty=https%3A%2F%2Fsenaiead.senai.br%2Fdn&type=samlsso&sp=LMS-SP-DN&isSaaSApp=false&authenticators=GoogleOIDCAuthenticator%3Agoogleoauth.hub%3BBasicAuthenticator%3ALOCAL",
+        "imagem": "img/imagens_senai/img06_meusenai.jpg"
+    },    
+    {
+        "nome": "Grand Prix",
+        "caminho": "https://plataforma.gpinovacao.senai.br/",
+        "imagem": "img/imagens_senai/img07_grandprix.jpg"
+    },
+    {
+        "nome": "EAD",
+        "caminho": "https://mg.senaiead.senai.br/login?dir=%2F&hash=portal",
+        "imagem": "img/imagens_senai/img08_senaiead.jpg"
+    },
+    {
+        "nome": "unIndustria",
+        "caminho": "https://ead.sesieducacao.com.br/uc/#portal",
+        "imagem": "img/imagens_senai/img09_unindustria.jpg"
+    },
+    {
+        "nome": "Classroom",
+        "caminho": "https://classroom.google.com/",
+        "imagem": "img/imagens_senai/img10_classroom.jpg"
+    },
+    {
+        "nome": "SAEP - teórico",
+        "caminho": "https://siac.senai.br/login",
+        "imagem": "img/imagens_senai/img11_saepteorico.jpg"
+    },
+    {
+        "nome": "SAEP - prático",
+        "caminho": "https://sap.senai.br/login",
+        "imagem": "img/imagens_senai/img12_saeppratico.jpg"
+    },
+    {
+        "nome": "SELFBOOK",
+        "caminho": "https://selfbooking.lemontech.com.br/Login.enviaEmail.mtw",
+        "imagem": "img/imagens_senai/img13_selfbook.jpg"
+    },  
+    {
+        "nome": "appsheet",
+        "caminho": "https://www.appsheet.com/Home/Apps",
+        "imagem": "img/imagens_senai/img14_appsheet.jpg"
+    },
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },
+    {
+        "nome": "Pincel Atomico",
+        "caminho": "https://faculdadeunica.pincelatomico.net.br/",
+        "imagem": "img/imagens_unica/pincel.jpg"
+    },    
+    {
+        "nome": "Drive Engenharia de Software",
+        "caminho": "",
+        "imagem": "img/imagens_unica/engenhariaSoftwareDezembro.jpg"
+    },
+    {
+        "nome": "Drive Engenharia de Software",
+        "caminho": "https://drive.google.com/drive/folders/14xUSvZq_OJdJ5ELHBnRktkV8cdoIhjs_",
+        "imagem": "img/imagens_unica/engenhariaSoftwareNovembro.jpg"
+    },    
+    {
+        "nome": "Drive Pesquisa Operacional",
+        "caminho": "https://drive.google.com/drive/folders/1uRKLOIF4m8UtK-MlqyEqNSsAXthXviNo",
+        "imagem": "img/imagens_unica/pesquisaOperacionalSetembro.jpg"
+    },
+    {
+        "nome": "Drive Pesquisa Operacional",
+        "caminho": "https://drive.google.com/drive/folders/1nbilvvNo_iR0uj_t_pbV3T2rK1ibJZRm",
+        "imagem": "img/imagens_unica/pesquisaOperacionalAgosto.jpg"
+    },
+    {
+        "nome": "Drive Programação II",
+        "caminho": "https://drive.google.com/drive/u/0/folders/1SvoP2sAywDyFFIlQm8naRyWOdAebLZtG",
+        "imagem": "img/imagens_unica/programaçãoParaComputadoresIIJunho.jpg"
+    },
+    {
+        "nome": "Biblioteca Virtual",
+        "caminho": "https://plataforma.bvirtual.com.br/Account/Login?redirectUrl=%2F",
+        "imagem": "img/imagens_unica/bibliotecaVirtual.jpg"
+    },
+    {
+        "nome": "Minha Biblioteca",
+        "caminho": "https://dliportal.zbra.com.br/Login.aspx?key=unica",
+        "imagem": "img/imagens_unica/minhabiblioteca.jpg"
+    },    
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },   
+    {
+        "nome": "Chatgpt-",
+        "caminho": "https://chat.openai.com/auth/login",
+        "imagem": "img/imagens_estudos/chatgpt1.jpg"
+    },  
+    {
+        "nome": "Devmedia",
+        "caminho": "https://www.devmedia.com.br/",
+        "imagem": "img/imagens_estudos/devmedia.jpg"
+    },
+    {
+        "nome": "JSPro",
+        "caminho": "https://app.nutror.com/cursos",
+        "imagem": "img/imagens_estudos/jspro.jpg"
+    },
+    {
+        "nome": "Udemy",
+        "caminho": "https://www.udemy.com/home/my-courses/learning/",
+        "imagem": "img/imagens_estudos/udemy.jpg"
+    },
+    {
+        "nome": "Figma",
+        "caminho": "https://www.figma.com/",
+        "imagem": "img/imagens_estudos/figma.jpg"
+    },
+    {
+        "nome": "Github",
+        "caminho": "https://github.com/login",
+        "imagem": "img/imagens_estudos/github.jpg"
+    },     
+    {
+        "nome": "frontendpractice",
+        "caminho": "https://www.frontendpractice.com/",
+        "imagem": "img/imagens_estudos/frontend.jpg"
+    },    
+    {
+        "nome": "developerMozilla",
+        "caminho": "https://developer.mozilla.org/en-US/play",
+        "imagem": "img/imagens_estudos/developer.jpg"
+    },                 
+    {
+        "nome": "CS50",
+        "caminho": "https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home",
+        "imagem": "img/imagens_estudos/cs50.jpg"
+    },
+    {
+        "nome": "100Days",
+        "caminho": "https://100dayscss.com/days/1/",
+        "imagem": "img/imagens_estudos/100days.jpg"
+    },
+    {
+        "nome": "Solução100Days",
+        "caminho": "https://www.youtube.com/watch?v=1KJsFDMeMmY&list=PLn-80lNl1Pv0gTA4ZIsOMwvsZUAZT0q4F&index=1",
+        "imagem": "img/imagens_estudos/100dayssolucao.jpg"
+    },        
+   
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },    
+    {
+        "nome": "Hotmail",
+        "caminho": "https://outlook.live.com/mail/0/",
+        "imagem": "img/hotmail.jpg"
+    },
+    {
+        "nome": "Gmail",
+        "caminho": "https://mail.google.com/mail/u/0/#inbox",
+        "imagem": "img/gmail.jpg"
+    },   
+    {
+        "nome": "IBI",
+        "caminho": "https://ibitelecom.com.br/boletos/",
+        "imagem": "img/ibi.jpg"
+    },
+    {
+        "nome": "rdc",
+        "caminho": "https://rdcviagens.com.br/",
+        "imagem": "img/rdc.jpg"
+    }, 
+    {
+        "nome": "betfair",
+        "caminho": "https://www.betfair.com/exchange/plus/",
+        "imagem": "img/betfair.jpg"
+    },
+    {
+        "nome": "trade",
+        "caminho": "https://app.fulltradersports.com/dashboard",
+        "imagem": "img/fulltrader.jpg"
+    },
+    {
+        "nome": "CalculadoraEsportiva",
+        "caminho": "https://www.academiadasapostasbrasil.com/calculator/matched-betting",
+        "imagem": "img/calculadoradeapostas.jpg"
+    },   
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },    
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },       
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },       
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    },
+    {
+        "nome": "---",
+        "caminho": "",
+        "imagem": "img/emdesenvolvimento.jpg"
+    }
+    
+]
+
+
